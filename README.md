@@ -3,6 +3,8 @@
 A new Flutter project.
 
 
+In this app we have a choice to choose image from gallery or take it from camera directly.
+
 ![Capture5](https://user-images.githubusercontent.com/43866043/66255436-0cae2100-e7a1-11e9-873f-f759ce2359ac.PNG)
 ![Capture6](https://user-images.githubusercontent.com/43866043/66255437-0d46b780-e7a1-11e9-93a5-d554ad7d29b6.PNG)
 ![Capture7](https://user-images.githubusercontent.com/43866043/66255438-0e77e480-e7a1-11e9-8846-15354f0356b9.PNG)
